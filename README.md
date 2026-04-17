@@ -1,5 +1,3 @@
-Here’s a more **informative, engaging, and creative version** of your project overview 👇
-
 ---
 
 ## 🚀 Project: Supply Chain Management System
