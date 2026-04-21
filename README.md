@@ -75,7 +75,7 @@ You will learn how to:
 
 This project is divided into **5 clear and progressive steps**:
 
-#### ✅ Step 1: Overview *(You are here)*
+#### ✅ Step 1: Overview 
 
 Understand the purpose, goals, and real-world relevance of the project.
 
